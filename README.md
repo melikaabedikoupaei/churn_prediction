@@ -71,6 +71,3 @@ The results of the models were compared, and the most effective model was select
 **Conclusion**  
 This project provides a comprehensive approach to predicting donor churn using multiple machine learning algorithms. The insights derived from this analysis will help the fundraising organization better allocate resources and focus on retaining the most valuable donors.
 
----
-
-This version uses **bold** text to highlight key sections and is organized for clarity. It should maintain its formatting when copied and pasted.
